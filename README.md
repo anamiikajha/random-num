@@ -9,7 +9,7 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/anamiikajha/random-num/blob/master/LICENSE)
 
 ### Author:
-- [@AnamiikaJha](https://github.com/anamiikajha)
+[@AnamiikaJha](https://github.com/anamiikajha)
 
 ### Language used in this repo:
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
