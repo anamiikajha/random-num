@@ -1,4 +1,4 @@
-# Text Case Converter
+# Random number generator.
 > A python function to generate a random number in a range of number, by User Input.
 
 > Open your terminal & clone this repo by using git or by downloading it manually.
